@@ -27,27 +27,43 @@ Construyo software que se usa todos los días y que tiene que seguir funcionando
 
 ## 🛠️ Tecnologías
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</p>
+**Lenguajes**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,django,mysql,git,docker,html,css&theme=dark" alt="Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,php,dart,kotlin,html,css,bash,powershell,mysql&theme=dark&perline=12" alt="Lenguajes" />
+</p>
+
+**Backend, APIs y frameworks**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,flask,nodejs,express,flutter,spring,wordpress&theme=dark&perline=12" alt="Backend, APIs y frameworks" />
+</p>
+
+**Servidores y despliegue**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,nginx,apache,docker,vercel,netlify,cloudflare,aws,githubactions&theme=dark&perline=12" alt="Servidores y despliegue" />
+</p>
+
+**Bases de datos y datos**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis&theme=dark&perline=12" alt="Bases de datos y datos" />
+</p>
+
+**Herramientas**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,figma&theme=dark&perline=12" alt="Herramientas" />
 </p>
 
 | Área | Herramientas |
 | --- | --- |
-| Lenguajes | Python · Java · JavaScript |
-| Web y APIs | Django · APIs REST · paneles de administración |
-| Servidores | Minecraft (Java y Bedrock) · cPanel · despliegues en la nube |
-| Datos | MySQL / SQL · lectura de equipos por puerto serie |
-| Automatización | Python (Pillow, NumPy, ctypes) · tareas programadas de Windows |
+| Lenguajes | Python · Java · JavaScript · TypeScript · PHP · Dart · Kotlin · HTML/CSS · Bash · PowerShell |
+| Web y APIs | Django · Flask · Node.js · APIs REST · webhooks · JSON · paneles de administración |
+| Servidores | Linux · Nginx / Apache · cPanel · Docker · Minecraft (Java y Bedrock) · Vercel · Netlify · Cloudflare |
+| Datos | MySQL · PostgreSQL · SQLite · lectura de equipos por puerto serie · reportes en Excel |
+| Automatización | Python (Pillow, NumPy, ctypes) · tareas programadas de Windows · GitHub Actions · n8n · scripts en Bash y PowerShell |
 
 ## 🤖 Inteligencia artificial y herramientas
 
