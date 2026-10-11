@@ -30,7 +30,7 @@ Construyo software que se usa todos los días y que tiene que seguir funcionando
 **Lenguajes**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,php,dart,kotlin,c,cpp,cs,html,css,sass,bash,powershell,mysql&theme=dark&perline=12" alt="Lenguajes" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,php,dotnet,cs,cpp,c,dart,kotlin,html,css,sass,bash,powershell,mysql&theme=dark&perline=12" alt="Lenguajes" />
 </p>
 
 **Frontend y web**
@@ -60,22 +60,23 @@ Construyo software que se usa todos los días y que tiene que seguir funcionando
 **Automatización y electrónica**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=selenium,arduino,raspberrypi,discord,notion&theme=dark&perline=12" alt="Automatización y electrónica" />
+  <img src="https://skillicons.dev/icons?i=discord,selenium,arduino,raspberrypi,notion,trello&theme=dark&perline=12" alt="Automatización y electrónica" />
 </p>
 
 **Herramientas**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,intellij,pycharm,postman,figma&theme=dark&perline=12" alt="Herramientas" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,trello,androidstudio,intellij,pycharm,postman,figma,ai,ps&theme=dark&perline=12" alt="Herramientas" />
 </p>
 
 | Área | Herramientas |
 | --- | --- |
-| Lenguajes | Python · Java · JavaScript · TypeScript · PHP · Dart · Kotlin · HTML/CSS · Bash · PowerShell |
+| Lenguajes | Python · Java · JavaScript · TypeScript · PHP · .NET · C# · C++ · C · Dart · Kotlin · HTML/CSS · Bash · PowerShell |
 | Web y APIs | Django · Flask · Node.js · APIs REST · webhooks · JSON · paneles de administración |
-| Servidores | Linux · Nginx / Apache · cPanel · Docker · Minecraft (Java y Bedrock) · Vercel · Netlify · Cloudflare |
+| Servidores | Linux · Ubuntu · AWS · Nginx / Apache · cPanel · Docker · Minecraft (Java y Bedrock) · Vercel · Netlify · Cloudflare |
 | Datos | MySQL · PostgreSQL · SQLite · lectura de equipos por puerto serie · reportes en Excel |
-| Automatización | Python (Pillow, NumPy, ctypes) · tareas programadas de Windows · GitHub Actions · n8n · scripts en Bash y PowerShell |
+| Diseño y gestión | Adobe Photoshop · Adobe Illustrator · Figma · Canva · Trello · Visual Studio Code |
+| Automatización | Python (Pillow, NumPy, ctypes) · tareas programadas de Windows · GitHub Actions · n8n · **bots de Discord** · scripts en Bash y PowerShell |
 
 ## 🤖 Inteligencia artificial y herramientas
 
