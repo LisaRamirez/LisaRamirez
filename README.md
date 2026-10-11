@@ -30,31 +30,43 @@ Construyo software que se usa todos los días y que tiene que seguir funcionando
 **Lenguajes**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,php,dart,kotlin,html,css,bash,powershell,mysql&theme=dark&perline=12" alt="Lenguajes" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,php,dart,kotlin,c,cpp,cs,html,css,sass,bash,powershell,mysql&theme=dark&perline=12" alt="Lenguajes" />
+</p>
+
+**Frontend y web**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap,jquery,wordpress,vite,npm&theme=dark&perline=12" alt="Frontend y web" />
 </p>
 
 **Backend, APIs y frameworks**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,flask,nodejs,express,flutter,spring,wordpress&theme=dark&perline=12" alt="Backend, APIs y frameworks" />
+  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,laravel,nodejs,express,spring,flutter,maven,gradle&theme=dark&perline=12" alt="Backend, APIs y frameworks" />
 </p>
 
 **Servidores y despliegue**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,nginx,apache,docker,vercel,netlify,cloudflare,aws,githubactions&theme=dark&perline=12" alt="Servidores y despliegue" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,nginx,apache,docker,vercel,netlify,cloudflare,aws,githubactions&theme=dark&perline=12" alt="Servidores y despliegue" />
 </p>
 
 **Bases de datos y datos**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis&theme=dark&perline=12" alt="Bases de datos y datos" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,firebase,supabase,grafana&theme=dark&perline=12" alt="Bases de datos y datos" />
+</p>
+
+**Automatización y electrónica**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=selenium,arduino,raspberrypi,discord,notion&theme=dark&perline=12" alt="Automatización y electrónica" />
 </p>
 
 **Herramientas**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,figma&theme=dark&perline=12" alt="Herramientas" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,intellij,pycharm,postman,figma&theme=dark&perline=12" alt="Herramientas" />
 </p>
 
 | Área | Herramientas |
