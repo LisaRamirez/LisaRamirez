@@ -19,11 +19,11 @@
 
 Construyo software que se usa todos los días y que tiene que seguir funcionando solo:
 
-- 🏢 **Administración centralizada** — plataformas web que reúnen en un solo lugar la gestión de clientes, cobros, lecturas y reportes.
-- 📡 **Telemetría y medición inteligente** — lectura de medidores, captura de datos desde equipos portátiles por puerto serie y paneles de seguimiento.
-- ⛏️ **Servidores de Minecraft** — administración de una red completa (proxy, lobby y survival), compatible con Java y Bedrock, con plugins y automatización de avisos y reinicios.
-- 🛒 **Tiendas y carritos de compra** — catálogos, carrito, pagos en línea y APIs conectadas a la tienda del servidor.
-- 🤖 **Automatización** — programas que reemplazan tareas repetitivas y se recuperan solos de los fallos.
+- **Administración centralizada** — plataformas web que reúnen en un solo lugar la gestión de clientes, cobros, lecturas y reportes.
+- **Telemetría y medición inteligente** — lectura de medidores, captura de datos desde equipos portátiles por puerto serie y paneles de seguimiento.
+- **Servidores de Minecraft** — administración de una red completa (proxy, lobby y survival), compatible con Java y Bedrock, con plugins y automatización de avisos y reinicios.
+- **Tiendas y carritos de compra** — catálogos, carrito, pagos en línea y APIs conectadas a la tienda del servidor.
+- **Automatización** — programas que reemplazan tareas repetitivas y se recuperan solos de los fallos.
 
 ## 🛠️ Tecnologías
 
