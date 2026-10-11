@@ -95,6 +95,7 @@ Sitios web que desarrollo y mantengo funcionando:
 | Sitio | Qué es |
 | --- | --- |
 | [**medidorinteligente.cl**](https://medidorinteligente.cl) | Sitio de medición inteligente y telemetría, hecho con Django. |
+| [**luxurycolchagua.com**](https://www.luxurycolchagua.com) | Experiencias de lujo en el Valle de Colchagua: itinerarios, alojamientos, transporte y conserjería. |
 | [**casasdecolchagua.cl**](https://casasdecolchagua.cl) | Sitio web inmobiliario del valle de Colchagua. |
 | [**wamdigital.cl**](https://wamdigital.cl) | Sitio web de WAM Digital. |
 | [**novapixelmc.com**](https://novapixelmc.com) | Servidor de Minecraft NovaPixel: web, API y tienda. |
