@@ -51,6 +51,19 @@ Construyo software que se usa todos los días y que tiene que seguir funcionando
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,nginx,apache,docker,vercel,netlify,cloudflare,aws,githubactions&theme=dark&perline=12" alt="Servidores y despliegue" />
 </p>
 
+**Hosting y despliegue**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Tatohosting-7c3aed?style=for-the-badge&logo=icloud&logoColor=white" alt="Tatohosting">
+  <img src="https://img.shields.io/badge/HostingPlus-ec4899?style=for-the-badge&logo=icloud&logoColor=white" alt="HostingPlus">
+  <img src="https://img.shields.io/badge/V2Networks-1d4ed8?style=for-the-badge&logo=icloud&logoColor=white" alt="V2Networks">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
+</p>
+
 **Bases de datos y datos**
 
 <p align="center">
@@ -73,7 +86,7 @@ Construyo software que se usa todos los días y que tiene que seguir funcionando
 | --- | --- |
 | Lenguajes | Python · Java · JavaScript · TypeScript · PHP · .NET · C# · C++ · C · Dart · Kotlin · HTML/CSS · Bash · PowerShell |
 | Web y APIs | Django · Flask · Node.js · APIs REST · webhooks · JSON · paneles de administración |
-| Servidores | Linux · Ubuntu · AWS · Nginx / Apache · cPanel · Docker · Minecraft (Java y Bedrock) · Vercel · Netlify · Cloudflare |
+| Servidores y hosting | Linux · Ubuntu · AWS · cPanel · Tatohosting · HostingPlus · V2Networks · Nginx / Apache · cPanel · Docker · Minecraft (Java y Bedrock) · Vercel · Netlify · Cloudflare |
 | Datos | MySQL · PostgreSQL · SQLite · lectura de equipos por puerto serie · reportes en Excel |
 | Diseño y gestión | Adobe Photoshop · Adobe Illustrator · Figma · Canva · Trello · Visual Studio Code |
 | Automatización | Python (Pillow, NumPy, ctypes) · tareas programadas de Windows · GitHub Actions · n8n · **bots de Discord** · scripts en Bash y PowerShell |
