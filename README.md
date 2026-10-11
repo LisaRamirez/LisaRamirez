@@ -75,6 +75,14 @@ Uso la IA como parte del trabajo diario: para programar, analizar datos, documen
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini">
   <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" alt="Grok">
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
+  <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot">
+  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex">
+  <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity">
+  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek">
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor">
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="NotebookLM">
+  <img src="https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white" alt="Midjourney">
 </p>
 
 | Herramienta | Para qué la uso |
@@ -84,6 +92,13 @@ Uso la IA como parte del trabajo diario: para programar, analizar datos, documen
 | **Gemini** | Investigación y análisis |
 | **Grok** | Consultas rápidas y búsqueda de información actual |
 | **Canva** | Diseño: portadas, presentaciones y piezas gráficas |
+| **GitHub Copilot / Codex** | Asistentes de código dentro del editor y la terminal |
+| **Perplexity** | Búsqueda con fuentes citadas |
+| **DeepSeek** | Modelos de razonamiento y pruebas de código |
+| **Cursor** | Editor de código con IA |
+| **Hugging Face** | Modelos abiertos y pruebas de IA |
+| **NotebookLM** | Resumir documentos y manuales |
+| **Midjourney** | Imágenes y arte de apoyo para diseño |
 
 ## 📊 Estadísticas
 
